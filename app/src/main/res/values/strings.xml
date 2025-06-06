@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">App30Days</string>
+    <string name="title">30 Days of Mindfulness</string>
+    <string name="description">A simple app to help you practice mindfulness every day for 30 days</string>
+
+
+    <string name="t_day1">Spend 15 minutes outdoor</string>
+    <string name="d_day1">Put some time in your calendar to take a walk or maybe even take a meetingwhile you\'re strolling  through your neighborhood</string>
+
+    <string name="t_day2">Spend 15 minutes indoor</string>
+    <string name="d_day2">Walk through your home or office and take a moment to appreciate the space</string>
+
+    <string name="t_day3">Spend 15 minutes with a friend</string>
+    <string name="d_day3">Call a friend or family member and catch up on each other\'s lives</string>
+
+    <string name="t_day4">Spend 15 minutes with a stranger</string>
+    <string name="d_day4">Strike up a conversation with someone you don\'t know, whether it\'s a neighbor or a barista</string>
+
+    <string name="t_day5">Spend 15 minutes with a loved one</string>
+    <string name="d_day5">Spend quality time with someone you care about, whether it\'s a partner, child, or pet</string>
+
+    <string name="t_day6">Spend 15 minutes with a colleague</string>
+    <string name="d_day6">Take a break from work and chat with a coworker, whether it\'s about work or personal interests</string>
+
+    <string name="t_day7">Say "thank you" to someone</string>
+    <string name="d_day7">Express gratitude to someone who has helped you or made your day better</string>
+
+    <string name="t_day8">Say "sorry" to someone</string>
+    <string name="d_day8">Apologize to someone you may have hurt or offended, whether intentionally or unintentionally</string>
+
+    <string name="t_day9">Spend 15 minutes in silence</string>
+    <string name="d_day9">Take a break from noise and distractions, and spend some time in quiet reflection</string>
+
+    <string name="t_day10">Spend 15 minutes in nature</string>
+    <string name="d_day10">Find a nearby park or green space and take a moment to appreciate the beauty of nature</string>
+
+    <string name="t_day11">Spend 15 minutes reading</string>
+    <string name="d_day11">Pick up a book or article and immerse yourself in a good read</string>
+
+    <string name="t_day12">Go to the park</string>
+    <string name="d_day12">Visit a local park and enjoy the fresh air and scenery</string>
+
+    <string name="t_day13">Spend 15 minutes meditating</string>
+    <string name="d_day13">Take a moment to clear your mind and focus on your breath</string>
+
+    <string name="t_day14">Clean your shoes</string>
+    <string name="d_day14">Take some time to clean and polish your shoes, giving them a fresh look</string>
+
+    <string name="t_day15">Organize your books</string>
+    <string name="d_day15">Take a moment to sort through your books and organize them in a way that makes sense to you</string>
+
+    <string name="t_day16">Spend 15 minutes journaling</string>
+    <string name="d_day16">Write down your thoughts, feelings, and experiences in a journal</string>
+
+    <string name="t_day17">Spend 15 minutes listening to music</string>
+    <string name="d_day17">Put on your favorite playlist or discover new music and enjoy the sounds</string>
+
+    <string name="t_day18">Spend 15 minutes cooking</string>
+    <string name="d_day18">Try out a new recipe or cook your favorite dish, taking time to savor the process</string>
+
+    <string name="t_day19">Draw your favorite character</string>
+    <string name="d_day19">Take a moment to sketch or draw your favorite character, whether it\'s from a book, movie, or your imagination</string>
+
+    <string name="t_day20">Cook your favorite meal</string>
+    <string name="d_day20">Prepare and enjoy a meal that you love, taking time to savor each bite</string>
+
+    <string name="t_day21">Play video games</string>
+    <string name="d_day21">Take a break and play your favorite video game, immersing yourself in the virtual world</string>
+
+    <string name="t_day22">Watch a movie</string>
+    <string name="d_day22">Sit back, relax, and enjoy a movie that you\'ve been wanting to see</string>
+
+    <string name="t_day23">Watch a series</string>
+    <string name="d_day23">Catch up on a series you\'ve been watching or start a new one</string>
+
+    <string name="t_day24">Watch a documentary</string>
+    <string name="d_day24">Learn something new by watching a documentary on a topic that interests you</string>
+
+    <string name="t_day25">Watch a YouTube video</string>
+    <string name="d_day25">Find a YouTube video that interests you, whether it\'s educational, entertaining, or inspiring</string>
+
+    <string name="t_day26">Watch a TED talk</string>
+    <string name="d_day26">Watch a TED talk on a topic that inspires you or challenges your thinking</string>
+
+    <string name="t_day27">Watch a tutorial</string>
+    <string name="d_day27">Find a tutorial on a skill or hobby you\'re interested in and learn something new</string>
+
+    <string name="t_day28">Watch a live stream</string>
+    <string name="d_day28">Tune in to a live stream of your favorite content creator or event</string>
+
+    <string name="t_day29">Watch a sports game</string>
+    <string name="d_day29">Catch a live sports game or watch a recorded match of your favorite team</string>
+
+    <string name="t_day30">Enjoy life!</string>
+    <string name="d_day30">Take a moment to appreciate the little things in life and enjoy the present moment</string>
+
+</resources>
