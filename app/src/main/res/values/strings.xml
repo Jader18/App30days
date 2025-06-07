@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">App30Days</string>
-    <string name="title">30 Days of Mindfulness</string>
-    <string name="description">A simple app to help you practice mindfulness every day for 30 days</string>
 
 
     <string name="t_day1">Spend 15 minutes outdoor</string>
